@@ -1,5 +1,7 @@
 body {
-  background-color: #2f4858;
+  background-color: black;
+  background-image: url("img/bg.jpg");
+  background-repeat: no-repeat;
 }
 
 h1 span {
@@ -16,7 +18,7 @@ h1 span {
 }
 
 .style-box {
-  background-color: #a8ad9b;
+  background-color: rgba(168, 173, 155, 0.5);
 }
 
 .input-border {
